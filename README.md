@@ -1,4 +1,7 @@
 ## Amazon_ML
-Do not commit to the main branch. Create your own branches and then keep comitting there. I repeat, DO NOT COMMIT TO THE MAIN BRANCH!
+Ignore v1.
+v1_train contains train data and further
+
+v1_test contains test data and further
 
 

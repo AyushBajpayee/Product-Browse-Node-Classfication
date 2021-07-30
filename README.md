@@ -1,4 +1,4 @@
 ## Amazon_ML
-#Repository for Amazon ML hackathon
+Do not commit to the main branch. Create your own branches and then keep comitting there. I repeat, DO NOT COMMIT TO THE MAIN BRANCH!
 
 
